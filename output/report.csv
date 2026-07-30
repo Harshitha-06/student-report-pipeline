@@ -1,0 +1,7 @@
+Student,Subject,ClassesHeld,ClassesAttended,MarksObtained,MaxMarks,Attendance%,Marks%,LowAttendance,Failing
+Aarav,Math,50,45,78,100,90.0,78.0,False,False
+Diya,Math,50,38,65,100,76.0,65.0,False,False
+Kabir,Math,50,49,92,100,98.0,92.0,False,False
+Meera,Math,50,30,40,100,60.0,40.0,True,False
+Rohan,Math,50,42,55,100,84.0,55.0,False,False
+Sara,Math,50,25,35,100,50.0,35.0,True,True
